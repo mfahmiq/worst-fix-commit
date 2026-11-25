@@ -1,0 +1,1 @@
+fix: crash is gone because the app no longer starts
